@@ -336,10 +336,10 @@ export default function Detail() {
                                             <div className={styles._ati8ih}>
                                               <span className={styles._14y1gc}>
                                                 <div className={styles._1jo4hgw} aria-hidden="true">
-                                                  <span className={styles._tyxjp1}>$197&nbsp;</span>
+                                                  <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
                                                   <span className={styles._r1nvod}>/ đêm</span>
                                                 </div>
-                                                <span className={styles.a8jt5op}>$197/đêm</span>
+                                                <span className={styles.a8jt5op}>197 USDT/đêm</span>
                                               </span>
                                             </div>
                                           </div>
@@ -430,12 +430,12 @@ export default function Detail() {
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6v}>$197 x 5&nbsp;đêm&nbsp;</div>
+                                                      <div className={styles._m6lwl6v}>197 USDT x 5&nbsp;đêm&nbsp;</div>
                                                       <span className={styles.a8jt5op}>Hiển thị chi tiết giá</span>
                                                     </button>
                                                   </div>
                                                 </span>
-                                                <span className={styles._1k4xcdh}>$983</span>
+                                                <span className={styles._1k4xcdh}>983 USDT</span>
                                               </div>
                                               <div className={styles._tr4owt}>
                                                 <span className={styles._18x3iiu}>
@@ -446,18 +446,18 @@ export default function Detail() {
                                                     </button>
                                                   </div>
                                                 </span>
-                                                <span className={styles._1k4xcdh}>$54</span>
+                                                <span className={styles._1k4xcdh}>54 USDT</span>
                                               </div>
                                               <div className={styles._tr4owt}>
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6}>Phí dịch vụ Airbnb</div>
+                                                      <div className={styles._m6lwl6}>Phí dịch vụ Skymate</div>
                                                       <span className={styles.a8jt5op}>Hiển thị chi tiết giá</span>
                                                     </button>
                                                   </div>
                                                 </span>
-                                                <span className={styles._1k4xcdh}>$146</span>
+                                                <span className={styles._1k4xcdh}>146 USDT</span>
                                               </div>
                                             </div>
                                             <div className={styles._6q0vike}>
@@ -467,7 +467,7 @@ export default function Detail() {
                                                 </span>
                                                 <span className={styles._1qs94rc}>
                                                   <span aria-hidden="false">
-                                                    <span className={styles._j1kt73}>$1.183</span>
+                                                    <span className={styles._j1kt73}>1.183 USDT</span>
                                                   </span>
                                                   <span className={styles.a8jt5op}></span>
                                                 </span>
@@ -497,7 +497,7 @@ export default function Detail() {
                                           Nơi này rất hiếm khi còn chỗ.
                                         </h2>
                                         <span className={styles._1hgrncy}>
-                                          Chỗ ở của Lee trên Airbnb thường kín phòng.
+                                          Chỗ ở của Lee trên Skymate thường kín phòng.
                                         </span>
                                       </div>
                                     </div>
