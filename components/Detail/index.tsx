@@ -182,7 +182,7 @@ export default function Detail() {
                               <div className={styles._tqmy57}>
                                 <div className={styles._8lgpy8}>
                                   <h2 className={styles.hpipapi}>
-                                  Entire apartment for rent. Host&nbsp;Alee
+                                  Entire apartment for rent. Host Alee
                                   </h2>
                                 </div>
                                 <ol className={styles.lgx66tx}>
@@ -336,8 +336,8 @@ export default function Detail() {
                                             <div className={styles._ati8ih}>
                                               <span className={styles._14y1gc}>
                                                 <div className={styles._1jo4hgw} aria-hidden="true">
-                                                  <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
-                                                  <span className={styles._r1nvod}>/ night</span>
+                                                  <span className={styles._tyxjp1}>197 USDT</span>
+                                                  <span className={styles._r1nvod}> / night</span>
                                                 </div>
                                                 <span className={styles.a8jt5op}>197 USDT/night</span>
                                               </span>
@@ -430,7 +430,7 @@ export default function Detail() {
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6v}>197 USDT x 5&nbsp;night&nbsp;</div>
+                                                      <div className={styles._m6lwl6v}>197 USDT x 5 nights</div>
                                                       <span className={styles.a8jt5op}>Show price details</span>
                                                     </button>
                                                   </div>
@@ -497,7 +497,7 @@ export default function Detail() {
                                         This place is rarely available.
                                         </h2>
                                         <span className={styles._1hgrncy}>
-                                        Lee's accommodation on Skymate is often full.
+                                        Lee`s accommodation on Skymate is often full.
                                         </span>
                                       </div>
                                     </div>
