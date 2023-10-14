@@ -15,7 +15,7 @@ export default function Filter()
                         <div className={styles.cbdpsi8}>
                           <div>
                             <div className={styles.rd7fm2t}>
-                              <div className={styles.db9tcim}>Đang hiển thị 9/61 Danh mục Airbnb</div>
+                              <div className={styles.db9tcim}>Đang hiển thị 9/61 Danh mục Skymate Marketplace</div>
                               <div className={styles.c18vjgz6}>
                                 <div className={styles.atm_uv_1kebd6b}>
                                   <button type="button" className={styles.atm_2d_1hbpp16}>

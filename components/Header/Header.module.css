@@ -78,7 +78,7 @@
 
 .logoContainer > a {
   transition: color 250ms cubic-bezier(0.2,0,0,1);
-  color: #ff385c;
+  color: #0071bb;
   outline: none;
   align-items: center;
   display: inline-flex;
@@ -97,7 +97,7 @@
   content: '';
   position: absolute;
   top: 8px;
-  color: #ff385c;
+  color: #0071bb;
 }
 
 .svgContainerPc {
@@ -239,7 +239,7 @@
 }
 
 .littleSearchIcon {
-  background-color: #ff385c;
+  background-color: #0071bb;
   margin: 7px 7px 7px 0;
   border-radius: 50%;
   padding: 10px;
@@ -713,7 +713,7 @@
   z-index: 5;
 }
 .bhtghtc {
-  background-color: #ff385c;
+  background-color: #0071bb;
   background: transparent;
   border: 0;
   cursor: pointer;

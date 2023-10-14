@@ -1,0 +1,26 @@
+.f1oa95gk {
+  margin-inline: auto;
+  padding-inline-start: 40px;
+  padding-inline-end: 40px;
+  background: #ffffff;
+  margin-block-end: 48px;
+  max-width: 2520px;
+  contain: paint layout;
+  width: 100%;
+  margin-block-start: 16px;
+}
+.l1icvf1x:first-child {
+  margin-top: 0;
+}
+.c1yo0219::after,
+.c1yo0219::before {
+  display: flex;
+  content: '';
+}
+.c1yo0219 > div {
+  display: contents;
+}
+.g14v8520 {
+  display: flex;
+  grid-gap: 40px 24px;
+}
