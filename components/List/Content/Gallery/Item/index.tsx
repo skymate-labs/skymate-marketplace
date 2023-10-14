@@ -155,10 +155,10 @@ export default function Item() {
                           <div className={styles._i5duul}>
                             <span className={styles._14y1gc}>
                               <div className={styles._1jo4hgw} aria-hidden="true">
-                                <span className={styles._tyxjp1}>$149&nbsp;</span>
+                                <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
                                 <span className={styles._r1nvod}>/ đêm</span>
                               </div>
-                              <span className={styles.a8jt5op}>$149/đêm</span>
+                              <span className={styles.a8jt5op}>197 USDT/đêm</span>
                             </span>
                           </div>
                         </div>
