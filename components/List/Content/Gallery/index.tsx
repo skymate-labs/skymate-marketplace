@@ -8,8 +8,9 @@ export default function Galery() {
         <div className={styles.c1yo0219}>
           <div>
             <div className={styles.g14v8520}>
-              <Item />
-              <Item />
+              {[1,2,3,4,5,6,7,8,9].map((item) => (
+                <Item key={item} />
+              ))}
             </div>
           </div>
         </div>

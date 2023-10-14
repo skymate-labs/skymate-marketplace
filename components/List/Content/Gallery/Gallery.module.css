@@ -23,4 +23,5 @@
 .g14v8520 {
   display: flex;
   grid-gap: 40px 24px;
+  flex-wrap: wrap;
 }
