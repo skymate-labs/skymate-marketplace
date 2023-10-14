@@ -24,4 +24,8 @@
   display: flex;
   grid-gap: 40px 24px;
   flex-wrap: wrap;
+  justify-content: space-between;
+}
+.g14v8520 > div {
+  width: 22%;
 }
