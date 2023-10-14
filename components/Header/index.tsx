@@ -34,21 +34,21 @@ export default function Header() {
                 <div className={styles.menuContainer}>
                   <div data-searchbar-open="false" className={styles.menu}>
                     <div>
-                      <span className={styles.littleSearchLabel}>Bắt đầu tìm kiếm</span>
+                      <span className={styles.littleSearchLabel}>Searching</span>
                       <span className={styles.searchOptions}>
                         <button className={styles.randomPlace} data-index="0" type="button">
-                          <span>Địa điểm</span>
-                          <div className={styles.randomPlaceText}>Địa điểm bất kỳ</div>
+                          <span>Location</span>
+                          <div className={styles.randomPlaceText}>Any Location</div>
                         </button>
                         <span className={styles.menuLine}></span>
                         <button className={styles.randomPlace} data-index="1" type="button">
                           <span>Nhận phòng/Trả phòng</span>
-                          <div className={styles.randomPlaceText}>tuần bất kỳ</div>
+                          <div className={styles.randomPlaceText}>Any Week</div>
                         </button>
                         <span className={styles.menuLine}></span>
                         <button className={styles.randomPlace} data-index="2" type="button">
                           <span>Khách</span>
-                          <div className={styles.randomPlaceTextLast}>Thêm khách</div>
+                          <div className={styles.randomPlaceTextLast}>More guest</div>
                           <div className={styles.littleSearchIcon}>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" role="presentation" focusable="false">
                               <path fill="none" d="M13 24a11 11 0 1 0 0-22 11 11 0 0 0 0 22zm8-3 9 9"></path>
@@ -96,7 +96,7 @@ export default function Header() {
                                   <div className={styles.ifji5s5}>
                                     <label className={styles.i1ns5d4x}>
                                       <div className={styles.cdhcwpf}>
-                                        <div className={styles.i1qjycmm}>Địa điểm</div>
+                                        <div className={styles.i1qjycmm}>Location</div>
                                         <input className={styles.iluujbk} name="query" placeholder="Tìm kiếm điểm đến" />
                                       </div>
                                     </label>
@@ -247,7 +247,7 @@ export default function Header() {
                   <nav className={styles._vuzcgs}>
                     <div className={styles._176ugpa}>
                       <a className={styles.cqfm6nt} href="/host/homes">
-                        <div className={styles.lx138ae}>Cho thuê chỗ ở qua Skymate Marketplace</div>
+                        <div className={styles.lx138ae}>Booking via Skymate Marketplace</div>
                       </a>
                       <div className={styles._1ubw29}>
                         <button type="button" className={styles.cqfm6nt}>

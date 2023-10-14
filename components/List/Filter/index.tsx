@@ -37,8 +37,8 @@ export default function Filter()
                                           <div className={styles.c1abgzgs}>
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/35919456-df89-4024-ad50-5fcb7a472df9.jpg" alt="" width="24" height="24" />
-                                              <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Nhà nhỏ</span>
+                                              <div className={`${styles.t192ua0c} ${styles.active}`}>
+                                                <span className={styles.ti7yjx}>Cabin</span>
                                               </div>
                                             </span>
                                           </div>
@@ -49,7 +49,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv2} src="https://a0.muscache.com/pictures/3fb523a0-b622-4368-8142-b5e03df7549b.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Hồ bơi tuyệt vời</span>
+                                                <span className={styles.ti7yjx}>Great swimming pool</span>
                                               </div>
                                             </span>
                                           </div>
@@ -60,7 +60,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv2} src="https://a0.muscache.com/pictures/ed8b9e47-609b-44c2-9768-33e6a22eccb2.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Các thành phố nổi tiếng</span>
+                                                <span className={styles.ti7yjx}>Famous cities</span>
                                               </div>
                                             </span>
                                           </div>
@@ -71,7 +71,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/3726d94b-534a-42b8-bca0-a0304d912260.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Được ưa chuộng</span>
+                                                <span className={styles.ti7yjx}>Popular</span>
                                               </div>
                                             </span>
                                           </div>
@@ -82,7 +82,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/8e507f16-4943-4be9-b707-59bd38d56309.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Đảo</span>
+                                                <span className={styles.ti7yjx}>Island</span>
                                               </div>
                                             </span>
                                           </div>
@@ -93,7 +93,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/7630c83f-96a8-4232-9a10-0398661e2e6f.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Phòng</span>
+                                                <span className={styles.ti7yjx}>Room</span>
                                               </div>
                                             </span>
                                           </div>
@@ -104,7 +104,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/3b1eb541-46d9-4bef-abc4-c37d77e3c21b.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Khung cảnh tuyệt vời</span>
+                                                <span className={styles.ti7yjx}>Great view</span>
                                               </div>
                                             </span>
                                           </div>
@@ -126,7 +126,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/687a8682-68b3-4f21-8d71-3c3aef6c1110.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Thuyền</span>
+                                                <span className={styles.ti7yjx}>Boat</span>
                                               </div>
                                             </span>
                                           </div>
@@ -137,7 +137,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/e4b12c1b-409b-4cb6-a674-7c1284449f6e.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Nhà phong cách Cycladic</span>
+                                                <span className={styles.ti7yjx}>Cycladic style house</span>
                                               </div>
                                             </span>
                                           </div>
@@ -148,7 +148,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/c5a4f6fc-c92c-4ae8-87dd-57f1ff1b89a6.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Thật ấn tượng!</span>
+                                                <span className={styles.ti7yjx}>Impressive!</span>
                                               </div>
                                             </span>
                                           </div>
@@ -159,7 +159,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/1d477273-96d6-4819-9bda-9085f809dad3.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Nhà khung chữ A</span>
+                                                <span className={styles.ti7yjx}>A-frame house</span>
                                               </div>
                                             </span>
                                           </div>
@@ -170,7 +170,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/ca25c7f3-0d1f-432b-9efa-b9f5dc6d8770.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Khu cắm trại</span>
+                                                <span className={styles.ti7yjx}>Campsite</span>
                                               </div>
                                             </span>
                                           </div>
@@ -181,7 +181,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/78ba8486-6ba6-4a43-a56d-f556189193da.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Biệt thự</span>
+                                                <span className={styles.ti7yjx}>Villa</span>
                                               </div>
                                             </span>
                                           </div>
@@ -192,7 +192,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/50861fca-582c-4bcc-89d3-857fb7ca6528.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Thiết kế</span>
+                                                <span className={styles.ti7yjx}>Design</span>
                                               </div>
                                             </span>
                                           </div>
@@ -214,7 +214,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/c0a24c04-ce1f-490c-833f-987613930eca.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Công viên quốc gia</span>
+                                                <span className={styles.ti7yjx}>National Park</span>
                                               </div>
                                             </span>
                                           </div>
@@ -225,7 +225,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/10ce1091-c854-40f3-a2fb-defc2995bcaf.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Bãi biển</span>
+                                                <span className={styles.ti7yjx}>Beach</span>
                                               </div>
                                             </span>
                                           </div>
@@ -236,7 +236,7 @@ export default function Filter()
                                             <span className={styles.c1ozl2w2}>
                                               <img className={styles.i181yxiv} src="https://a0.muscache.com/pictures/f0c5ca0f-5aa0-4fe5-b38d-654264bacddf.jpg" alt="" width="24" height="24" />
                                               <div className={styles.t192ua0c}>
-                                                <span className={styles.ti7yjx}>Vui chơi</span>
+                                                <span className={styles.ti7yjx}>Play</span>
                                               </div>
                                             </span>
                                           </div>
@@ -270,7 +270,7 @@ export default function Filter()
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-hidden="true" role="presentation" focusable="false">
                               <path d="M5 8a3 3 0 0 1 2.83 2H14v2H7.83A3 3 0 1 1 5 8zm0 2a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm6-8a3 3 0 1 1-2.83 4H2V4h6.17A3 3 0 0 1 11 2zm0 2a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"></path>
                             </svg>
-                            <span className={styles.t7zgiao}>Bộ lọc</span>
+                            <span className={styles.t7zgiao}>Filters</span>
                           </span>
                         </button>
                         <div aria-hidden="true" className={styles.b597hka}>
@@ -290,7 +290,7 @@ export default function Filter()
           <div>
             <div className={styles.c4g05it} role="button">
               <div className={styles.tjrryoo}>
-                <div className={styles.txqi15w}>Hiển thị tổng trước thuế</div>
+                <div className={styles.txqi15w}>Shows total before tax</div>
               </div>
               <button type="button" className={styles.c472klm}>
                 <div className={styles.s1yktc2s}></div>

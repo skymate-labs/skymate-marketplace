@@ -139,15 +139,15 @@ export default function Item() {
                       </div>
                     </div>
                     <div className={styles.c1v0rf5q}>
-                      <div className={styles.t1jojoys}>Naega-myeon, Ganghwa-gun, Hàn Quốc</div>
+                      <div className={styles.t1jojoys}>Naega-myeon, Ganghwa-gun, South Korea</div>
                       <div className={styles.s1cjsi4j} data-testid="listing-card-subtitle">
                         <span>
-                          <span>Cách 2.712 km</span>
+                          <span>2,712 km away</span>
                         </span>
                       </div>
                       <div className={styles.s1cjsi4j}>
                         <span>
-                          <span>Ngày 05 - Ngày 10 tháng 11</span>
+                          <span>November 5 - November 10</span>
                         </span>
                       </div>
                       <div className={styles.pquyp1l}>
@@ -156,9 +156,9 @@ export default function Item() {
                             <span className={styles._14y1gc}>
                               <div className={styles._1jo4hgw} aria-hidden="true">
                                 <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
-                                <span className={styles._r1nvod}>/ đêm</span>
+                                <span className={styles._r1nvod}>/ night</span>
                               </div>
-                              <span className={styles.a8jt5op}>197 USDT/đêm</span>
+                              <span className={styles.a8jt5op}>197 USDT/night</span>
                             </span>
                           </div>
                         </div>

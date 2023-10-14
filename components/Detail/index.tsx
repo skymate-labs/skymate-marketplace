@@ -17,14 +17,14 @@ export default function Detail() {
                             <div>
                               <span className={styles._789fcz}>
                                 <button type="button" className={styles.c1b36svn}>
-                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Tiêu đề được dịch tự động: Cắm trại trong rừng, hình bóng caravan nội thất cảm xúc (cabin/hệ thống sưởi)" role="img" focusable="false">
+                                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-label="Titles are translated automatically: Camping in the woods, emotional interior caravan silhouette (cabin/heating)" role="img" focusable="false">
                                     <path d="M9 0a1 1 0 0 1 1 .88V6h5a1 1 0 0 1 1 .88V15a1 1 0 0 1-.88 1H7a1 1 0 0 1-1-.88V10H1a1 1 0 0 1-1-.88V1a1 1 0 0 1 .88-1H9zm1.73 7-1.4.5.24.21.13.13c.12.13.23.25.3.36l.08.1.05.07.04.08H7.31v1.3h1.2l.17.53.1.26.1.3A6.3 6.3 0 0 0 10 12.61c-.5.32-1.12.61-1.87.87l-.33.11-.35.11-.44.14.72 1.15.4-.13.4-.12c1-.35 1.83-.76 2.48-1.22.57.4 1.28.77 2.12 1.08l.37.14.38.12.41.13.72-1.15-.45-.14-.26-.08-.34-.11a9.23 9.23 0 0 1-1.94-.9 6.3 6.3 0 0 0 1.07-1.7l.13-.31.11-.33.17-.52h1.2V8.45h-3.05l-.1-.23A3.7 3.7 0 0 0 11 7.3l-.12-.15-.14-.15zm1.35 2.76-.04.13-.08.22-.1.27a4.99 4.99 0 0 1-.86 1.38 4.95 4.95 0 0 1-.74-1.13l-.12-.25-.1-.27-.08-.22-.04-.13h2.16zM9 1H1v8h5V7l.01-.17H3.83L3.43 8H2l2.26-6h1.48l1.5 4H9V1zM5 3.41 4.25 5.6h1.5L5 3.41z"></path>
                                   </svg>
                                 </button>
                               </span>
                               <span className={styles._1xxgv6l}>
                                 <h1 className={styles.hpipapi} element-timing="LCP-target">
-                                  Cắm trại trong rừng, hình bóng caravan nội thất cảm xúc (cabin/hệ thống sưởi)
+                                Camping in the woods, emotional interior caravan silhouette (cabin/heating)
                                 </h1>
                               </span>
                             </div>
@@ -41,19 +41,19 @@ export default function Detail() {
                                             </g>
                                           </svg>
                                         </span>
-                                        Chia sẻ
+                                        Share
                                       </div>
                                     </button>
                                   </div>
                                   <div>
-                                    <button aria-label="Thêm vào danh sách Yêu thích" data-testid="pdp-save-button-unsaved" type="button" className={styles.c85v83j}>
+                                    <button aria-label="Add to Favorites list" data-testid="pdp-save-button-unsaved" type="button" className={styles.c85v83j}>
                                       <div aria-hidden="true" className={styles._5kaapu}>
                                         <span className={styles._14tkmhr}>
                                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true" role="presentation" focusable="false">
                                             <path d="M16 28c7-4.73 14-10 14-17a6.98 6.98 0 0 0-7-7c-1.8 0-3.58.68-4.95 2.05L16 8.1l-2.05-2.05a6.98 6.98 0 0 0-9.9 0A6.98 6.98 0 0 0 2 11c0 7 7 12.27 14 17z"></path>
                                           </svg>
                                         </span>
-                                        Lưu
+                                        Save
                                       </div>
                                     </button>
                                   </div>
@@ -182,12 +182,12 @@ export default function Detail() {
                               <div className={styles._tqmy57}>
                                 <div className={styles._8lgpy8}>
                                   <h2 className={styles.hpipapi}>
-                                    Toàn bộ căn hộ cho thuê. Chủ nhà&nbsp;Alee
+                                  Entire apartment for rent. Host&nbsp;Alee
                                   </h2>
                                 </div>
                                 <ol className={styles.lgx66tx}>
                                   <li className={styles.l7n4lsf}>
-                                    <span>4 khách</span>
+                                    <span>4 guests</span>
                                     <span className={styles.axjq0r}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
@@ -196,7 +196,7 @@ export default function Detail() {
                                     <span className={styles.pen26si}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
-                                    <span>Phòng studio</span>
+                                    <span>Studio room</span>
                                     <span className={styles.axjq0r}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
@@ -205,7 +205,7 @@ export default function Detail() {
                                     <span className={styles.pen26si}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
-                                    <span>1 giường</span>
+                                    <span>1 bed</span>
                                     <span className={styles.axjq0r}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
@@ -214,7 +214,7 @@ export default function Detail() {
                                     <span className={styles.pen26si}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
-                                    <span>1 phòng tắm</span>
+                                    <span>1 bathroom</span>
                                     <span className={styles.axjq0r}>
                                       <span className={styles.s1b4clln}> · </span>
                                     </span>
@@ -269,11 +269,11 @@ export default function Detail() {
                               <div>
                                 <div className={styles._sg8691}>
                                   <h3 className={styles.hpipapi}>
-                                    Không gian riêng để làm việc
+                                  Private space to work
                                   </h3>
                                 </div>
                                 <div className={styles._1dmhz6v}>
-                                  Một khu vực chung có Wi-fi, phù hợp để làm việc.
+                                A common area with Wi-fi, suitable for working.
                                 </div>
                               </div>
                             </div>
@@ -288,11 +288,11 @@ export default function Detail() {
                               <div>
                                 <div className={styles._sg8691}>
                                   <h3 className={styles.hpipapi}>
-                                  Tự nhận phòng
+                                  Self check-in
                                   </h3>
                                 </div>
                                 <div className={styles._1dmhz6v}>
-                                  Bạn có thể gặp nhân viên trực cửa để nhận phòng.
+                                You can meet the door staff to check in.
                                 </div>
                               </div>
                             </div>
@@ -306,7 +306,7 @@ export default function Detail() {
                               </div>
                               <div><div className={styles._sg8691}>
                                   <h3 className={styles.hpipapi}>
-                                  Hủy miễn phí trong 48 giờ.
+                                  Free cancellation within 48 hours.
                                   </h3>
                                 </div>
                                 <div className={styles._1dmhz6v}></div>
@@ -337,9 +337,9 @@ export default function Detail() {
                                               <span className={styles._14y1gc}>
                                                 <div className={styles._1jo4hgw} aria-hidden="true">
                                                   <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
-                                                  <span className={styles._r1nvod}>/ đêm</span>
+                                                  <span className={styles._r1nvod}>/ night</span>
                                                 </div>
-                                                <span className={styles.a8jt5op}>197 USDT/đêm</span>
+                                                <span className={styles.a8jt5op}>197 USDT/night</span>
                                               </span>
                                             </div>
                                           </div>
@@ -351,9 +351,9 @@ export default function Detail() {
                                                 </svg>
                                               </span>
                                               <span className={styles._12si43g} aria-hidden="true">5,0 ·</span>
-                                              <span className={styles._bq6krt} aria-hidden="true">25 đánh giá</span>
+                                              <span className={styles._bq6krt} aria-hidden="true">25 reviews</span>
                                               <span className={styles.a8jt5op}>
-                                                Xếp hạng 5,0/5 theo 25 đánh giá.
+                                              Rated 5.0/5 according to 25 reviews.
                                               </span>
                                             </span>
                                           </div>
@@ -366,13 +366,13 @@ export default function Detail() {
                                                   <div className={styles._zdxht7}>
                                                     <div className={styles.cc9lcoh}>
                                                       <div role="presentation" className={styles.d1j9pcto}></div>
-                                                      <button className={styles._16l1qv1} aria-label="Thay đổi ngày; Nhận phòng: 2023-11-18; Trả phòng: 2023-11-23" type="button">
+                                                      <button className={styles._16l1qv1} aria-label="Change date; Check-in: 2023-11-18; Check-out: 2023-11-23" type="button">
                                                         <div className={styles._19y8o0j}>
-                                                          <div className={styles._w149nr}>Nhận phòng</div>
+                                                          <div className={styles._w149nr}>Check-in</div>
                                                           <div className={styles._tekaj0}>18/11/2023</div>
                                                         </div>
                                                         <div className={styles._48vms8s}>
-                                                          <div className={styles._w149nr}>Trả phòng</div>
+                                                          <div className={styles._w149nr}>Check-out</div>
                                                           <div className={styles._tekaj0}>23/11/2023</div>
                                                         </div>
                                                       </button>
@@ -386,10 +386,10 @@ export default function Detail() {
                                                       <div role="presentation" className={styles.d1j9pcto}></div>
                                                       <div className={styles._1qpi5kt}>
                                                         <label className={styles._13kgb0p}>
-                                                          <div className={styles._w149nr}>Khách</div>
+                                                          <div className={styles._w149nr}>Guests</div>
                                                           <div className={styles._7pspom} aria-invalid="false" aria-disabled="false">
                                                             <div className={styles._1e5z145}>
-                                                              <span className={styles._j1kt73}>1 khách</span>
+                                                              <span className={styles._j1kt73}>1 guest</span>
                                                             </div>
                                                           </div>
                                                         </label>
@@ -414,13 +414,13 @@ export default function Detail() {
                                               <span className={styles.tb4j57x}>
                                                 <span className={styles.tmel3e0}></span>
                                               </span>
-                                              <span className={styles.c9x5udt}>Đặt phòng</span>
+                                              <span className={styles.c9x5udt}>Book</span>
                                             </button>
                                           </div>
                                         </div>
                                       </div>
                                       <div className={styles._1o0c7xj}>
-                                        <div className={styles._qqc9rm}>Bạn vẫn chưa bị trừ tiền</div>
+                                        <div className={styles._qqc9rm}>You have not been charged yet</div>
                                       </div>
                                       <div className={styles._1cvivhm}>
                                         <div className={styles._m495dq}>
@@ -430,8 +430,8 @@ export default function Detail() {
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6v}>197 USDT x 5&nbsp;đêm&nbsp;</div>
-                                                      <span className={styles.a8jt5op}>Hiển thị chi tiết giá</span>
+                                                      <div className={styles._m6lwl6v}>197 USDT x 5&nbsp;night&nbsp;</div>
+                                                      <span className={styles.a8jt5op}>Show price details</span>
                                                     </button>
                                                   </div>
                                                 </span>
@@ -441,8 +441,8 @@ export default function Detail() {
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6}>Phí vệ sinh</div>
-                                                      <span className={styles.a8jt5op}>Hiển thị chi tiết giá</span>
+                                                      <div className={styles._m6lwl6}>Cleaning fee</div>
+                                                      <span className={styles.a8jt5op}>Show price details</span>
                                                     </button>
                                                   </div>
                                                 </span>
@@ -452,8 +452,8 @@ export default function Detail() {
                                                 <span className={styles._18x3iiu}>
                                                   <div className={styles._10d7v0r}>
                                                     <button type="button" className={styles._101nvu7m}>
-                                                      <div className={styles._m6lwl6}>Phí dịch vụ Skymate</div>
-                                                      <span className={styles.a8jt5op}>Hiển thị chi tiết giá</span>
+                                                      <div className={styles._m6lwl6}>Service charge Skymate</div>
+                                                      <span className={styles.a8jt5op}>Show price details</span>
                                                     </button>
                                                   </div>
                                                 </span>
@@ -463,7 +463,7 @@ export default function Detail() {
                                             <div className={styles._6q0vike}>
                                               <div className={styles._3u0me7}>
                                                 <span className={styles._18x3iiu}>
-                                                  <div>Tổng trước thuế</div>
+                                                  <div>Total before tax</div>
                                                 </span>
                                                 <span className={styles._1qs94rc}>
                                                   <span aria-hidden="false">
@@ -494,10 +494,10 @@ export default function Detail() {
                                     <div className={styles._xomkrgi}>
                                       <div className={styles._psmgei}>
                                         <h2 className={styles._11eif2k4} style={{marginTop: 0}}>
-                                          Nơi này rất hiếm khi còn chỗ.
+                                        This place is rarely available.
                                         </h2>
                                         <span className={styles._1hgrncy}>
-                                          Chỗ ở của Lee trên Skymate thường kín phòng.
+                                        Lee's accommodation on Skymate is often full.
                                         </span>
                                       </div>
                                     </div>
@@ -528,7 +528,7 @@ export default function Detail() {
                                         <path d="M28 6H17V4a2 2 0 0 0-2-2H3v28h2V18h10v2a2 2 0 0 0 2 2h11.12a1 1 0 0 0 .84-1.28L27.04 14l1.92-6.72A1 1 0 0 0 28 6z"></path>
                                       </svg>
                                     </span>
-                                    Báo cáo nhà/phòng cho thuê này 
+                                    Report this house / room for rent
                                   </span>
                                 </button>
                               </div>

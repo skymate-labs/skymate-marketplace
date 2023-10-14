@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Skymate Marketplace',
-  description: 'Nhà nghỉ dưỡng & Căn hộ cao cấp cho thuê - Skymate',
+  description: 'Vacation homes & luxury apartments for rent - Skymate',
 }
 
 export default function RootLayout({
