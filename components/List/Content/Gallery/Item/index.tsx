@@ -1,6 +1,15 @@
 import styles from './Item.module.css'
 
-export default function Item() {
+interface Item {
+  id: string,
+  content: string,
+  image: string,
+  location: string,
+  distance: string,
+  free: string,
+  price: number
+}
+export default function Item({item}: {item: Item}) {
   return (
     <div>
       <div className={styles.c4mnd7m}>
@@ -46,13 +55,13 @@ export default function Item() {
         </div>
         <div className={styles.c1l1h97y}>
           <div>
-            <meta item-prop="name" content="숲 속에서 즐기는 캠핑, 감성인테리어 카라반" />
+            <meta item-prop="name" content={item.content} />
             <meta item-prop="position" content="1" />
             <meta item-prop="url" content="" />
             <div>
               <div>
                 <div className={styles.cy5jw6o}>
-                  <a rel="noopener noreferrer nofollow" target="listing_872082150412967376" href="/room/872082150412967376" className={styles.bn2bl2p}></a>
+                  <a rel="noopener noreferrer nofollow" target={`listing_${item.id}`} href={`/room/${item.id}`} className={styles.bn2bl2p}></a>
                   <div className={styles.lxq01kf}>
                     <div className={styles.m1v28t5c}>
                       <div className={styles.c14dgvke}>
@@ -120,11 +129,11 @@ export default function Item() {
                               <div className={styles.awuxh4x}>
                                 <div className={styles.cw9aemg}>
                                   <div className={styles.c14whb16}>
-                                    <a aria-hidden="true" className={styles.rfexzly} href="/room/872082150412967376" rel="noopener noreferrer nofollow" target="listing_872082150412967376">
+                                    <a aria-hidden="true" className={styles.rfexzly} href={`/room/${item.id}`} rel="noopener noreferrer nofollow" target={`listing_${item.id}`}>
                                       <div className={styles.cjv59qb}>
                                         <div className={styles.bmwtyu7}>
                                           <picture>
-                                            <img className={styles.itu7ddv} aria-hidden="true" element-timing="LCP-target" fetch-priority="high" loading="eager" src="https://a0.muscache.com/im/pictures/prohost-api/Hosting-872082150412967376/original/ceb9391d-e6ed-4fd1-a909-8929b8f35134.jpeg?im_w=720" />
+                                            <img className={styles.itu7ddv} aria-hidden="true" element-timing="LCP-target" fetch-priority="high" loading="eager" src={item.image} />
                                           </picture>
                                           <div className={styles.rsb5yse}></div>
                                         </div>
@@ -139,15 +148,15 @@ export default function Item() {
                       </div>
                     </div>
                     <div className={styles.c1v0rf5q}>
-                      <div className={styles.t1jojoys}>Naega-myeon, Ganghwa-gun, South Korea</div>
+                      <div className={styles.t1jojoys}>{item.location}</div>
                       <div className={styles.s1cjsi4j} data-testid="listing-card-subtitle">
                         <span>
-                          <span>2,712 km away</span>
+                          <span>{item.distance}</span>
                         </span>
                       </div>
                       <div className={styles.s1cjsi4j}>
                         <span>
-                          <span>November 5 - November 10</span>
+                          <span>{item.free}</span>
                         </span>
                       </div>
                       <div className={styles.pquyp1l}>
@@ -155,10 +164,10 @@ export default function Item() {
                           <div className={styles._i5duul}>
                             <span className={styles._14y1gc}>
                               <div className={styles._1jo4hgw} aria-hidden="true">
-                                <span className={styles._tyxjp1}>197 USDT&nbsp;</span>
+                                <span className={styles._tyxjp1}>{item.price} USDT&nbsp;</span>
                                 <span className={styles._r1nvod}>/ night</span>
                               </div>
-                              <span className={styles.a8jt5op}>197 USDT/night</span>
+                              <span className={styles.a8jt5op}>{item.price} USDT/night</span>
                             </span>
                           </div>
                         </div>
